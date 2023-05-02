@@ -1,6 +1,6 @@
-# flutter_note_project
+# Description
 
-A new Flutter project.
+<p>This app is for saving tasks and reminding them.</p>
 
 ## Getting Started
 
