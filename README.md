@@ -1,6 +1,6 @@
 <h1> Description</h1>
 
-<p>This app is for saving tasks and reminding them.</p>
+<p>• This app is for saving tasks and reminding them.</p>
 
 <h2>Some Program Pages</h2>
 <p><img src="https://user-images.githubusercontent.com/132124730/235671748-feee3e3a-1045-4dad-a495-dfb6c72c31fa.png" alt="github1" width="300" height="300">
