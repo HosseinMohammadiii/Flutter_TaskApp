@@ -92,36 +92,6 @@ class _TaskWidgetState extends State<TaskWidget> {
                 SizedBox(
                   width: 6,
                 ),
-                // GestureDetector(
-                //   onTap: () {
-                //     setState(() {
-                //       isNotif = !isNotif;
-                //       widget.task.dark = isNotif;
-                //       if (isNotif == true) {
-                //         notification
-                //             .inittilize(flutterLocalNotificationsPlugin);
-                //       } else {
-                //         return;
-                //       }
-                //       widget.task.save();
-                //     });
-                //   },
-                //   child: isNotif == false
-                //       ? Icon(
-                //           Icons.notifications_on_rounded,
-                //           size: 25,
-                //           color: widget.isTheme == true
-                //               ? Color(0xff18DDA3)
-                //               : Colors.green,
-                //         )
-                //       : Icon(
-                //           Icons.notifications_off,
-                //           size: 25,
-                //           color: widget.isTheme == true
-                //               ? Color(0xff18DDA3)
-                //               : Colors.green,
-                //         ),
-                // ),
                 Spacer(),
                 Text(
                   widget.task.title!,
